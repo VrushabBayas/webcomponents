@@ -16,8 +16,6 @@ A reusable, framework-agnostic Web Component built using [Lit](https://lit.dev/)
 
 ## 📦 Getting Started
 
-### 1. Clone the repo
-
 ```bash
 git clone https://github.com/your-username/user-card-component.git
 cd WebComponents
