@@ -19,14 +19,19 @@ A reusable, framework-agnostic Web Component built using [Lit](https://lit.dev/)
 ```bash
 git clone https://github.com/your-username/user-card-component.git
 cd WebComponents
-
+```
+```
 npm install
-
+```
+```
 npm run dev
+```
 
 Then open http://localhost:3000 in your browser.
+---
 
-🧱 Technologies Used
+
+## 🧱 Technologies Used
 Lit – fast, lightweight library for Web Components
 
 Vite – modern build tool with lightning-fast HMR
