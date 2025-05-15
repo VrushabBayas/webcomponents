@@ -1,4 +1,4 @@
-# 🧱 User Card Web Component
+# 🧱 Web Component
 
 A reusable, framework-agnostic Web Component built using [Lit](https://lit.dev/) and [Vite](https://vitejs.dev/). This component displays a simple user card with a name and email.
 
@@ -24,7 +24,7 @@ cd WebComponents
 
 npm install
 
-npm run dev ```
+npm run dev
 
 Then open http://localhost:3000 in your browser.
 
